@@ -1,7 +1,7 @@
 # Artificial-Intelligence-for-Trading
 Artificial Intelligence for Trading
 
-The repository will provide a show case of 8 different projects of using Artificial Intelligence to Stock Portfolios. 
+The repository will provide a show case of 8 different projects for using Artificial Intelligence to build Stock Portfolios. 
 
 First Project is 
 
